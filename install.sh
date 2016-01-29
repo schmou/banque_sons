@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# A lancer depuis la racine du dépot
+
 echo "Installation de la banque de sons..."
 echo "Copie du dossier contenant les sons dans /home..."
 
